@@ -356,7 +356,7 @@ klynt.data = {
             "hideTitleInMindmap": false,
             "buttons": [
                 {
-                    "centerY": "150.00",
+                    "centerY": "178.88",
                     "dataend": "00:36.39",
                     "type": "klynt-button-1",
                     "zIndex": 3,
@@ -389,12 +389,12 @@ klynt.data = {
                         "id": "D36E88D4-8157-45B5-9141-A50FA8A711AB",
                         "color": "rgba(0,0,0,1)"
                     },
-                    "scales": false,
+                    "scales": true,
                     "duration": "00:26.31",
                     "centerX": "0.00",
-                    "width": "160.00",
+                    "width": "190.81",
                     "classNames": "Voir le film",
-                    "height": "40.00",
+                    "height": "47.70",
                     "label": "Voir le film",
                     "id": "671AEE3D-CD7C-622E-138C-A46C48317FDD",
                     "databegin": "00:10.08"
@@ -1492,12 +1492,12 @@ klynt.data = {
     },
     "aliases": {
         "aliasToId": {
-            "Interview": "8C223FE5-5B28-4570-CEA0-A29403BC9132",
-            "À_travers_mes_yeux_": "BDE04A6B-2340-0974-9788-A293EA9554F8",
             "Podcast": "112100D3-EFEE-59F6-662E-A29442CD8427",
+            "Accueil_": "05ECA459-BD49-46FE-B96B-A281A5DED243",
             "Navigation_Contextuelle": "48253FAE-329B-083D-D894-A2D40FA6891A",
             "Making-of": "114701A9-5B5E-E7C6-45A0-A293F4903A67",
-            "Accueil_": "05ECA459-BD49-46FE-B96B-A281A5DED243"
+            "À_travers_mes_yeux_": "BDE04A6B-2340-0974-9788-A293EA9554F8",
+            "Interview": "8C223FE5-5B28-4570-CEA0-A29403BC9132"
         },
         "idToAlias": {
             "48253FAE-329B-083D-D894-A2D40FA6891A": "Navigation_Contextuelle",
@@ -1584,7 +1584,7 @@ klynt.data = {
         "mapsKey": "",
         "title": "Webdocumentaire : À travers mes yeux",
         "author": "Abinaya",
-        "modificationDate": 1738097680145,
+        "modificationDate": 1738098298615,
         "overlayCloseButtonTop": 16,
         "primaryColor": 3355443,
         "editorVersionNumber": "3.5.007",
