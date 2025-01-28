@@ -455,12 +455,12 @@ klynt.data = {
                     "horizontalAlign": "center",
                     "scaleMode": "zoom",
                     "mediaWidth": 1350,
-                    "scales": false,
+                    "scales": true,
                     "duration": "00:25.63",
-                    "centerX": "0.00",
-                    "width": "462.87",
+                    "centerX": "-0.00",
+                    "width": "547.21",
                     "classNames": "Affiche",
-                    "height": "319.48",
+                    "height": "377.69",
                     "name": "Photoshop_-_Affiche_-_Page_d_accueil.png",
                     "databegin": "00:10.08"
                 },
@@ -1113,6 +1113,130 @@ klynt.data = {
             "hideThumbnailInMindmap": false,
             "texts": [
                 {
+                    "dataend": "00:11.56",
+                    "left": "100.00",
+                    "type": "txt-Default",
+                    "text": "<p>Double-cliquez pour éditer.</p>",
+                    "name": "Jour 1",
+                    "transitionIn": {
+                        "type": "fade",
+                        "duration": "1"
+                    },
+                    "transitionOut": {
+                        "type": "fade",
+                        "duration": "1"
+                    },
+                    "zIndex": 1,
+                    "top": "380.00",
+                    "annotation": {
+                        "label": "Jour 1",
+                        "thumbnail": true
+                    },
+                    "scales": false,
+                    "duration": "00:04.00",
+                    "width": "400.00",
+                    "classNames": "Jour 1",
+                    "height": "60.00",
+                    "style": {
+                        "opacity": 0
+                    },
+                    "id": "35C967CB-4603-6A14-0618-AEAC84B68085",
+                    "databegin": "00:06.56"
+                },
+                {
+                    "dataend": "01:04.42",
+                    "left": "100.00",
+                    "type": "txt-Default",
+                    "text": "<p>Double-cliquez pour éditer.</p>",
+                    "name": "Jour 2",
+                    "transitionIn": {
+                        "type": "fade",
+                        "duration": "1"
+                    },
+                    "transitionOut": {
+                        "type": "fade",
+                        "duration": "1"
+                    },
+                    "zIndex": 1,
+                    "top": "380.00",
+                    "annotation": {
+                        "label": "Jour 2",
+                        "thumbnail": true
+                    },
+                    "scales": false,
+                    "duration": "00:05.00",
+                    "width": "400.00",
+                    "classNames": "Jour 2",
+                    "height": "60.00",
+                    "style": {
+                        "opacity": 0
+                    },
+                    "id": "9736FCCD-98DF-3025-CBEC-AEAED8E1E9A8",
+                    "databegin": "00:59.42"
+                },
+                {
+                    "dataend": "01:36.47",
+                    "left": "100.00",
+                    "type": "txt-Default",
+                    "text": "<p>Double-cliquez pour éditer.</p>",
+                    "name": "Jour 3",
+                    "transitionIn": {
+                        "type": "fade",
+                        "duration": "1"
+                    },
+                    "transitionOut": {
+                        "type": "fade",
+                        "duration": "1"
+                    },
+                    "zIndex": 1,
+                    "top": "380.00",
+                    "annotation": {
+                        "label": "Jour 3",
+                        "thumbnail": true
+                    },
+                    "scales": false,
+                    "duration": "00:04.00",
+                    "width": "400.00",
+                    "classNames": "Jour 3",
+                    "height": "60.00",
+                    "style": {
+                        "opacity": 0
+                    },
+                    "id": "564E2640-D474-3A99-AF16-AEAFE3D86A93",
+                    "databegin": "01:31.47"
+                },
+                {
+                    "dataend": "01:58.98",
+                    "left": "100.00",
+                    "type": "txt-Default",
+                    "text": "<p>Double-cliquez pour éditer.</p>",
+                    "name": "Jour 4",
+                    "transitionIn": {
+                        "type": "fade",
+                        "duration": "1"
+                    },
+                    "transitionOut": {
+                        "type": "fade",
+                        "duration": "1"
+                    },
+                    "zIndex": 1,
+                    "top": "380.00",
+                    "annotation": {
+                        "label": "Jour 4",
+                        "thumbnail": true
+                    },
+                    "scales": false,
+                    "duration": "00:04.00",
+                    "width": "400.00",
+                    "classNames": "Jour 4",
+                    "height": "60.00",
+                    "style": {
+                        "opacity": 0
+                    },
+                    "id": "DBFD4279-9A30-1329-417F-AEB088D866E8",
+                    "databegin": "01:53.98"
+                },
+                {
                     "centerY": "-215.73",
                     "dataend": "02:50.03",
                     "type": "txt-Title-1",
@@ -1122,7 +1246,7 @@ klynt.data = {
                         "type": "fade",
                         "duration": "1"
                     },
-                    "zIndex": 1,
+                    "zIndex": 2,
                     "scales": true,
                     "duration": "02:50.03",
                     "centerX": "-21.88",
@@ -1130,140 +1254,6 @@ klynt.data = {
                     "classNames": "Making-of",
                     "height": "71.54",
                     "id": "96D4DCE2-F62C-5F64-7A13-A47A13DBB46C",
-                    "databegin": "00:00.00"
-                },
-                {
-                    "dataend": "02:24.57",
-                    "left": "15.00",
-                    "type": "txt-Default",
-                    "text": "<p style=\"text-align: center;\"><span style=\"font-family: 'Stardos Stencil'; font-size: 10pt;\">Jour 4</span></p>",
-                    "name": "Jour 4",
-                    "transitionIn": {
-                        "type": "fade",
-                        "duration": "1"
-                    },
-                    "zIndex": 3,
-                    "top": "415.00",
-                    "click": [
-                        {
-                            "value": "114.45",
-                            "delay": 0,
-                            "type": "playerAction",
-                            "name": "seekTo",
-                            "target": "player"
-                        }
-                    ],
-                    "scales": false,
-                    "duration": "02:24.57",
-                    "width": "50.00",
-                    "classNames": "Jour 4",
-                    "height": "40.00",
-                    "style": {
-                        "borderColor": "rgba(255,255,255,1)",
-                        "borderSize": 1
-                    },
-                    "id": "EB655750-8A4E-381D-7F6F-A4E06B44B402",
-                    "databegin": "00:00.00"
-                },
-                {
-                    "dataend": "02:24.57",
-                    "left": "15.00",
-                    "type": "txt-Default",
-                    "text": "<p style=\"text-align: center;\"><span style=\"font-family: 'Stardos Stencil'; font-size: 10pt;\">Jour 3</span></p>",
-                    "name": "Jour 3",
-                    "transitionIn": {
-                        "type": "fade",
-                        "duration": "1"
-                    },
-                    "zIndex": 4,
-                    "top": "365.00",
-                    "click": [
-                        {
-                            "value": "91.13",
-                            "delay": 0,
-                            "type": "playerAction",
-                            "name": "seekTo",
-                            "target": "player"
-                        }
-                    ],
-                    "scales": false,
-                    "duration": "02:24.57",
-                    "width": "50.00",
-                    "classNames": "Jour 3",
-                    "height": "40.00",
-                    "style": {
-                        "borderColor": "rgba(255,255,255,1)",
-                        "borderSize": 1
-                    },
-                    "id": "A548CCA3-BF4C-F1C9-C452-A4DF0CE921DE",
-                    "databegin": "00:00.00"
-                },
-                {
-                    "dataend": "02:24.57",
-                    "left": "15.00",
-                    "type": "txt-Default",
-                    "text": "<p style=\"text-align: center;\"><span style=\"font-family: 'Stardos Stencil'; font-size: 10pt;\">Jour 2</span></p>",
-                    "name": "Jour 2",
-                    "transitionIn": {
-                        "type": "fade",
-                        "duration": "1"
-                    },
-                    "zIndex": 5,
-                    "top": "315.00",
-                    "click": [
-                        {
-                            "value": "59.23",
-                            "delay": 0,
-                            "type": "playerAction",
-                            "name": "seekTo",
-                            "target": "player"
-                        }
-                    ],
-                    "scales": false,
-                    "duration": "02:24.57",
-                    "width": "50.00",
-                    "classNames": "Jour 2",
-                    "height": "40.00",
-                    "style": {
-                        "borderColor": "rgba(255,255,255,1)",
-                        "borderRadius": 2,
-                        "borderSize": 1
-                    },
-                    "id": "9FAA8629-2F2C-05FC-AAA8-A4E07A0BDD79",
-                    "databegin": "00:00.00"
-                },
-                {
-                    "dataend": "02:24.57",
-                    "left": "15.00",
-                    "type": "txt-Default",
-                    "text": "<p style=\"text-align: center;\"><span style=\"font-family: 'Stardos Stencil'; font-size: 10pt;\">Jour 1&nbsp;</span></p>",
-                    "name": "Jour 1",
-                    "transitionIn": {
-                        "type": "fade",
-                        "duration": "1"
-                    },
-                    "zIndex": 6,
-                    "top": "265.00",
-                    "click": [
-                        {
-                            "value": "6.2",
-                            "delay": 0,
-                            "type": "playerAction",
-                            "name": "seekTo",
-                            "target": "player"
-                        }
-                    ],
-                    "scales": false,
-                    "duration": "02:24.57",
-                    "width": "50.00",
-                    "classNames": "Jour 1",
-                    "height": "40.00",
-                    "style": {
-                        "borderColor": "rgba(255,255,255,1)",
-                        "borderRadius": 2,
-                        "borderSize": 1
-                    },
-                    "id": "CA0E6E37-527E-E3D4-EAC9-A4E012971C75",
                     "databegin": "00:00.00"
                 }
             ],
@@ -1273,7 +1263,7 @@ klynt.data = {
                     "dataend": "02:50.03",
                     "left": "16.00",
                     "type": "klynt-button-8",
-                    "zIndex": 2,
+                    "zIndex": 3,
                     "transitionIn": {
                         "type": "fade",
                         "duration": "1"
@@ -1502,12 +1492,12 @@ klynt.data = {
     },
     "aliases": {
         "aliasToId": {
+            "Interview": "8C223FE5-5B28-4570-CEA0-A29403BC9132",
             "À_travers_mes_yeux_": "BDE04A6B-2340-0974-9788-A293EA9554F8",
-            "Making-of": "114701A9-5B5E-E7C6-45A0-A293F4903A67",
-            "Navigation_Contextuelle": "48253FAE-329B-083D-D894-A2D40FA6891A",
-            "Accueil_": "05ECA459-BD49-46FE-B96B-A281A5DED243",
             "Podcast": "112100D3-EFEE-59F6-662E-A29442CD8427",
-            "Interview": "8C223FE5-5B28-4570-CEA0-A29403BC9132"
+            "Navigation_Contextuelle": "48253FAE-329B-083D-D894-A2D40FA6891A",
+            "Making-of": "114701A9-5B5E-E7C6-45A0-A293F4903A67",
+            "Accueil_": "05ECA459-BD49-46FE-B96B-A281A5DED243"
         },
         "idToAlias": {
             "48253FAE-329B-083D-D894-A2D40FA6891A": "Navigation_Contextuelle",
@@ -1594,7 +1584,7 @@ klynt.data = {
         "mapsKey": "",
         "title": "Webdocumentaire : À travers mes yeux",
         "author": "Abinaya",
-        "modificationDate": 1738095960901,
+        "modificationDate": 1738097680145,
         "overlayCloseButtonTop": 16,
         "primaryColor": 3355443,
         "editorVersionNumber": "3.5.007",
